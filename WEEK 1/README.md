@@ -18,7 +18,15 @@ industry-relevant practices.
 9. Agent-to-Agent Communication
 
 ## Study Material
+Comprehensive study notes covering all nine core topics of AI Engineering, with detailed explanations, architecture diagrams, flowcharts, practical examples, and industry-relevant concepts.
 
+📄 AI Engineering Study Guide
+- Detailed theoretical concepts
+- Architecture diagrams and flowcharts
+- Python code examples
+- Industry applications and use cases
+- Modern AI tools and technologies
+- Learning roadmap and reference resources
 
 
 ## Learning Outcomes
